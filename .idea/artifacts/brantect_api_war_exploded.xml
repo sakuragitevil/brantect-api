@@ -4,7 +4,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="brantect-api" />
+          <element id="module-output" name="brights" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: javax.ejb:javax.ejb-api:3.2" />
@@ -44,7 +44,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/brantect-api/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="brantect-api/web/Web" />
+      <element id="javaee-facet-resources" facet="brights/web/Web" />
     </root>
   </artifact>
 </component>
